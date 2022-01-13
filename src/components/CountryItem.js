@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-const CountryItem = ({item,uniquekey }) => {
+const CountryItem = ({item, }) => {
     const {
         name,
         capital,

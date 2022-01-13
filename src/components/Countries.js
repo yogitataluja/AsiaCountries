@@ -40,7 +40,7 @@ const Country = () => {
       <div className="refresh_wrapper" ><button className="refreshbtn btn-light"  onClick={getCountries}> Refresh <RefreshIcon style={{marginRight:"5px"}} /></button></div>
         {countries.length > 0
           ? countries.map((item, index) => (
-              <CountryItem key={index} uniquekey={index}  item={item} />
+              <CountryItem key={item.name.common}  item={item} />
             ))
           : ""}
       </div>
