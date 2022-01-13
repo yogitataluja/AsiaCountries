@@ -1,16 +1,15 @@
-# [LIVE DEMO](https://asiacountries.herokuapp.com/)
-
-Just Click on LIVE DEMO you will be Navigate to the deployed site.
+ Just Click on # [Here](https://asiacountries.herokuapp.com/) you will be Navigate to the live version of app 
  
 
-Built using React JS, Material UI Icons, Javascript, HTML, CSS within day. 
+Built using React JS, Material UI Icons, Javascript, HTML, CSS  and for Backend Data i used Rest API, docs - https://restcountries.com/ within day. 
 
 
 ## Features and Functionality
 
 - List all countries of Asia on the homepage as a Card.
-- When you hover on a card it will flip 180 and show you furture details of Country on the back side of card.
+- When you hover on a card it will flip 180 and show you further details of Country on the back side of card.
 - You can also see more detailed information on a separate page by clicking anywhere on the back side of card.
+- There is a Refresh Button at Home page by which we can refresh REST API data.
 - Mobile responsiveness
 
 
