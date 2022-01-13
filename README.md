@@ -1,7 +1,7 @@
- Just Click on # [Here](https://asiacountries.herokuapp.com/) you will be Navigate to the live version of app 
+ Just Click  # [Here](https://asiacountries.herokuapp.com/)  you will be Navigate to the live version of app 
  
 
-Built using React JS, Material UI Icons, Javascript, HTML, CSS  and for Backend Data i used Rest API, docs - https://restcountries.com/ within day. 
+Built using React JS, Material UI Icons, Javascript, HTML, CSS  and for Backend Data I integrate Rest API (docs - https://restcountries.com/ )within day. 
 
 
 ## Features and Functionality
