@@ -1,5 +1,8 @@
  Just Click  # [Here](https://asiacountries.herokuapp.com/)  you will be Navigate to the live version of app 
  
+![Design preview ](./Design/Landing_home_page.png)
+![Design preview ](./Design/Hover_over_card.png)
+![Design preview ](./Design/Detail_page.png)
 
 Built using React JS, Material UI Icons, Javascript, HTML, CSS  and for Backend Data I integrate Rest API (docs - https://restcountries.com/ )within day. 
 
