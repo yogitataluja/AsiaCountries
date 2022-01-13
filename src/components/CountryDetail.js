@@ -110,13 +110,13 @@ const CountryDetail = () => {
           
             <div className="borders">
             <h3>Border Countries: </h3>
-              {countrydetails[0].borders.map((border) => {
+              {  countrydetails[0].borders ?  countrydetails[0].borders.map((border) => {
                 return (
                   <ul key={border} >
                     <li>{border}</li>
                   </ul>
                 );
-              })}
+              }): <h3> Nothing in API</h3>}
             </div>
           
         </article>):""}
